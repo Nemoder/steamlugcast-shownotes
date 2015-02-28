@@ -1,6 +1,6 @@
 RECORDED: 2015-02-20
 PUBLISHED: 2015-02-28
-TITLE: Low-Key Guest
+TITLE: Low-Key Guest Tea Party
 SEASON: 03
 EPISODE: 04
 DURATION: 02:18:33
@@ -40,9 +40,35 @@ NOTESCREATOR: @beansmyname
 00:33:18 Nemoder asks about goals of icculus.org as a place for linux porters to host code
 00:34:48 Cheeseness invites Ryan to talk about the impact of proprietary services on open source projects
 00:36:56 "You don't really own your data. You definitely don't own the code."
-
-****** TODO: Someone else will need to transcribe this section. Sorry. :\ *******
-
+00:38:17 Troubles with avoiding cloud services and hosting your own.
+00:42:14 Ryan's recent ports: Another World http://store.steampowered.com/app/233550/
+00:47:41 Flibitijibibo sends in massive patch for Mojoshader https://icculus.org/mojoshader/
+00:48:58 Work on Sanctum 2 http://store.steampowered.com/app/210770/ and Goat Simulator http://store.steampowered.com/app/265930/
+00:50:14 Unreal Engine 3 porting difficulties.
+00:52:08 Unreal Engine 4 "could be revolutionary this could be a big big difference in how we make AAA games."
+00:56:58 DerRidda asks about how hard it was to go back to working with UE3 code for newer games.
+00:58:15 Porting stresses for Dungeon Defenders http://store.steampowered.com/app/65800/
+01:00:41 Cheeseness asks if Ryan bore the brunt of Unreal Tournament 3's failure to ship.
+01:03:10 Evropi from chat asks for an explanation on Red Orchestra 2 port status.
+01:05:15 Ryan has many unpaid ports like RO2 on his TODO list.
+01:08:59 Limbo port's bumpy history http://store.steampowered.com/app/48000/
+01:11:42 Dear Esther port and the many faces of Valve's Source engine http://dear-esther.com/
+01:14:07 Insurgency and Stanley Parable not yet on Linux.
+01:15:35 Cheeseness asks what the most significant events for Linux gaming have been.   "Loki.  Humble Bundle.  SteamOS.  Unreal Engine 4."
+01:20:43 Ryan's discusses John Carmack's view on id soft's Linux game history.
+01:22:34 Johndrinkwater from chat asks how Ryan feels about Valve's SteamOS controller.
+01:23:52 Flibitijibibo realizes his mic is on and jumps in to talk about Valve's lack of devkits for the controller.
+01:28:57 DarkSim offers hugs from chat and Cheeseness asks if Ryan gets enough community love.
+01:31:37 Cheeseness asks if post-port game support is more difficult.
+01:33:50 Evropi from chat asks what the hardest port has been.
+01:34:47 Ryan talks about building Unreal 2003 on the first experimental 64bit AMD machines.
+01:37:47 Ryan quote's original Descent developers "not a single line of this code is worth looking at"
+01:38:36 Quake3 Arena code quality praised: http://ioquake3.org/
+01:39:47 Cheeseness asks what can game devs do to make a port easier
+01:40:57 Middleware issues with Shank http://store.steampowered.com/app/6120/
+01:44:26 LinuxZen from chat asks about the origin of the name Icculus
+01:46:44 Cheeseness asks who ends up maintaining ports.
+01:48:00 Ryan wants Psychonauts updated for SDL2 http://store.steampowered.com/app/3830/
 
 *Our Gaming*
 01:49:44 *SteamLUG Community Stuff*
